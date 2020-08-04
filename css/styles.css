@@ -1,0 +1,57 @@
+
+body {
+  line-height: 2;
+  background-color:black;
+  font-family: 'Amaranth', sans-serif;
+
+}
+p {
+  color:#ffe78f
+}
+
+h1 {
+  color: #ffe78f;
+
+}
+h2  {
+  color: #ffe78f;
+}
+h3  {
+  color: #ffe78f;
+}
+h4 {
+  color: #ffe78f;
+}
+table {
+  color:white;
+}
+
+hr {
+  color:black;
+  border-style: dotted;
+  border-width: 5px 0 0 0;
+  width : 10%;
+}
+ol {
+  color:white;
+}
+form {
+  color:white;
+}
+table {
+  color:white;
+}
+
+a:hover {
+  color: #0779e4;
+}
+
+.link:hover {
+  background-color: #ffe78f;
+  font-size: 20px;
+}
+
+
+.lk:link:hover {
+  font-size: 25px;
+}
